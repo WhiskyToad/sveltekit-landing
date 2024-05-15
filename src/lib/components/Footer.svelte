@@ -13,12 +13,12 @@
 			/></svg
 		>
 		<p class="font-bold">
-			Company Name. <br />Company Tagline
+			Achievify. <br />Turn goals into reality.
 		</p>
-		<p>Copyright © 2023 - All right reserved</p>
+		<p>Copyright © 2024 - All right reserved</p>
 	</div>
 	<div>
-		<div class="grid grid-flow-col gap-4">
+		<!-- <div class="grid grid-flow-col gap-4">
 			<a href="/"
 				><svg
 					xmlns="http://www.w3.org/2000/svg"
@@ -55,6 +55,6 @@
 					/></svg
 				></a
 			>
-		</div>
+		</div> -->
 	</div>
 </footer>
