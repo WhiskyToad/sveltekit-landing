@@ -1,9 +1,8 @@
 <div class="p-4 xl:p-10 bg-base-300 my-10 rounded-lg">
 	<div class="max-w-lg mx-auto pb-10">
-		<div class="text-3xl font-bold text-center my-5">Instant Insights</div>
+		<div class="text-3xl font-bold text-center my-5">Achieve with ease</div>
 		<div class="text-lg text-center my-5">
-			Voluptate eiusmod quis do aliquip labore esse pariatur excepteur dolore do fugiat sint Lorem
-			commodo ea pariatur.
+			Using the power of Achievify you can break the mould and release your inner champion.
 		</div>
 	</div>
 
@@ -23,9 +22,9 @@
 					/></svg
 				>
 			</div>
-			<div class="stat-title">Total Projects</div>
-			<div class="stat-value text-primary">182</div>
-			<div class="stat-desc">3% more than last month</div>
+			<div class="stat-title">Habit Formation</div>
+			<div class="stat-value text-primary">66</div>
+			<div class="stat-desc">It takes 66 days to form a habit!</div>
 		</div>
 
 		<div class="stat">
@@ -43,24 +42,9 @@
 					/></svg
 				>
 			</div>
-			<div class="stat-title">Connections</div>
-			<div class="stat-value text-primary-focus">2.6M</div>
-			<div class="stat-desc">21% more than last month</div>
-		</div>
-
-		<div class=" stat lg:hidden xl:stat">
-			<div class="stat-figure text-secondary">
-				<div class="avatar online w-12">
-					<img
-						class="rounded-full"
-						alt="avatar"
-						src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
-					/>
-				</div>
-			</div>
-			<div class="stat-title">Page Views</div>
-			<div class="stat-value text-secondary">262k</div>
-			<div class="stat-desc">11% more than last month</div>
+			<div class="stat-title">Achievify it</div>
+			<div class="stat-value text-primary-focus">1000%</div>
+			<div class="stat-desc">Written goals are 1000% more likely to be achieved.</div>
 		</div>
 
 		<div class="stat">
@@ -73,9 +57,9 @@
 					/>
 				</div>
 			</div>
-			<div class="stat-title">Engineering</div>
-			<div class="stat-value text-secondary">86%</div>
-			<div class="stat-desc">79 commits across 14 repositories.</div>
+			<div class="stat-title">Attrition</div>
+			<div class="stat-value text-secondary">50%</div>
+			<div class="stat-desc">50% of people give up in the first month</div>
 		</div>
 	</div>
 </div>
